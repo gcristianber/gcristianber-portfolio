@@ -1,35 +1,41 @@
-# .
+# Simple Web Portfolio ✨
 
-This template should help get you started developing with Vue 3 in Vite.
+Hello and welcome to my Simple Web Portfolio repository! This website is where I'll be displaying information about myself, my skills, my experiences, my achievements, and most importantly, the projects I've worked on. It's built using VueJS and TailwindCSS
 
-## Recommended IDE Setup
+## Getting Started
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Prerequisites
 
-## Customize configuration
+Before you begin, ensure you have the following installed on your machine:
+- [Node.js](https://nodejs.org/): Make sure you have Node.js installed. You can download it from the official website.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### Installation 🔨
 
-## Project Setup
+To get started with my Simple Web Portfolio
 
-```sh
-npm install
-```
+1. Clone the repository to your local machine.
 
-### Compile and Hot-Reload for Development
+   ```bash
+       git clone htts://github.com/gcristianber/gcristianber-portfolio.git
+   ```
 
-```sh
-npm run dev
-```
+2. Clone the repository to your local machine.
 
-### Compile and Minify for Production
+   ```bash
+       cd gcristianber-portfolio
+   ```
 
-```sh
-npm run build
-```
+3. Install the project dependencies using npm
 
-### Lint with [ESLint](https://eslint.org/)
+   ```bash
+       npm install
+   ```
 
-```sh
-npm run lint
-```
+4. Once you have installed the dependencies, you can now start the Simple Web Portfolio using the following command
+   ```bash
+       npm run dev
+   ```
+
+## Additional Notes ✍
+
+- Feel free to suggest and recommend some improvements also you can fork and pull request to contribute.
